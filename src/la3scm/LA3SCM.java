@@ -11,6 +11,11 @@ package la3scm;
  */
 public class LA3SCM {
 
+    
+    public void addFeatureB()
+    {
+        System.out.println("la3scm.LA3SCM.addFeatureB()");
+    }
     /**
      * @param args the command line arguments
      */
